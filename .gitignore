@@ -1,3 +1,16 @@
+# Ignore personal workspace layout and local histories
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+
+# Ignore specialized or generated cache data
+.idea/caches/
+
+# If you use data sources, ignore passwords/local connection details
+.idea/dataSources/
+.idea/dataSources.local.xml
+
+
 *~
 a.out
 test-core
